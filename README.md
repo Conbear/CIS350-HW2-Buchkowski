@@ -12,4 +12,3 @@ My background in programming is limited. I have experience using C++, Python, an
 
 ![Favorite meme](https://media.npr.org/assets/img/2023/01/14/this-is-fine_custom-b7c50c845a78f5d7716475a92016d52655ba3115.jpg)
 
-d.	A link to a picture of your favorite meme

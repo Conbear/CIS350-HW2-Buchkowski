@@ -6,8 +6,10 @@
 * I enjoy going to concerts and listening to music.
 * I have fun figuring out logic puzzles
 
-b.	At least 3 bullet points describing your interests (either personal, technical, or research-related)
+## Technical Background
 
-c.	A sub-section called Technical Background, where the content of the sub-section describes your programming experience (or technical experience)
+My background in programming is limited. I have experience using C++, Python, and SQL but I have the most experience with Python. I have experience coding for college classes and have used Python to analyze data for a company for a class.
+
+
 
 d.	A link to a picture of your favorite meme
